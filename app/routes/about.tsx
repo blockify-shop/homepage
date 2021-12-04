@@ -5,7 +5,7 @@ import stylesUrl from "~/styles/demos/about.css";
 
 export let meta: MetaFunction = () => {
   return {
-    title: "about blockify",
+    title: "About Remix",
   };
 };
 
@@ -17,7 +17,7 @@ export default function Index() {
   return (
     <div className="about">
       <div className="about__intro">
-        <h2>about us</h2>
+        <h2>About Us</h2>
         <p>
           Ok, so this page isn't really <em>about us</em> (yet), but we did want
           to tell you how this project started.
