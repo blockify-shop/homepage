@@ -15,7 +15,7 @@ export let loader: LoaderFunction = () => {
     resources: [
       {
         name: "visit our GitHub",
-        url: "https://github.com/jcstein/blockify",
+        url: "https://github.com/blockify-shop",
       },
       {
         name: "Discord ➡️ join our community",
@@ -25,7 +25,7 @@ export let loader: LoaderFunction = () => {
     demos: [
       {
         to: "/about",
-        name: "about blockify shop",
+        name: "about blockify",
       },
     ],
   };

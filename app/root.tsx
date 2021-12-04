@@ -138,7 +138,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <a href="https:/github.com/jcstein/blockify">GitHub</a>
+                <a href="https://github.com/blockify-shop">GitHub</a>
               </li>
             </ul>
           </nav>
